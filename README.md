@@ -17,6 +17,9 @@ It provides insights into average price, range, safety rating, and sales across 
 ## 🖼️ Dashboard Preview
 ![EV Dashboard Preview](EV_dashboard.png)  
 
+## 📈 Dashboard
+- [View the Dashboard on Tableau Public](https://public.tableau.com/shared/P83FF9SDS?:display_count=n&:origin=viz_share_link)
+
 ## 📌 Insights
 - Safety ratings remain fairly consistent across price segments.  
 - Higher range doesn’t always correlate with higher prices.  
